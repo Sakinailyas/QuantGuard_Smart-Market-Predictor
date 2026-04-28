@@ -1,2 +1,2 @@
 # QuantGuard_Smart-Market-Predictor
-AI-powered stock market prediction dashboard using machine learning, technical indicators, and Streamlit
+QuantGuard is a machine learning-based stock prediction system using Random Forest and technical indicators like RSI, Moving Averages, and Volatility. Built with Streamlit for live dashboard visualization.
